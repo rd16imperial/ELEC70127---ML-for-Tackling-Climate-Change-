@@ -9,4 +9,4 @@ We have developed architecture to improve on the current state of the art model.
 Our architectures include: ResUNet; UNet++ and TransUNet. 
 
 
-[SyneRGy_ClimateChange_Poster.pdf](https://github.com/user-attachments/files/19390274/SyneRGy_ClimateChange_Poster.pdf)
+<img width="1082" alt="Screenshot 2025-03-21 at 13 41 06" src="https://github.com/user-attachments/assets/bf81b360-7335-4f12-8e33-ab4111a4546a" />
